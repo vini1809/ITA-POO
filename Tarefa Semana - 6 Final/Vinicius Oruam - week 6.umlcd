@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_NVAuIJpJEeyWefGyoEr9Ig">
+  <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P2mhIJpJEeyWefGyoEr9Ig"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hPTc4JpKEeyWefGyoEr9Ig" source="_hPTc6ZpKEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7UCAJpJEeyWefGyoEr9Ig"/>
+    <stereotypes xmi:id="_hPTc4ZpKEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7ZhkJpJEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hPTc4ppKEeyWefGyoEr9Ig" text=""/>
+    <sourceRole xmi:id="_hPTc45pKEeyWefGyoEr9Ig" aggregationKind="NONE" name="">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7UCAZpJEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_hPTc5JpKEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_hPTc5ZpKEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hPTc5ppKEeyWefGyoEr9Ig" aggregationKind="NONE" name="palavras" navigable="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7AgAJpJEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_hPTc55pKEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_hPTc6JpKEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_30JmAJpOEeyWefGyoEr9Ig" sourceAnchor="164.0,0.0" targetAnchor="149.0,0.0" dashed="true" superClass="_p1fksJpMEeyWefGyoEr9Ig" subClass="_30NQYJpOEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zb0UJpOEeyWefGyoEr9Ig"/>
+    <bendpoints xmi:id="_LFuVoppVEeyWefGyoEr9Ig" sourceY="-30" targetX="188" targetY="120"/>
+    <bendpoints xmi:id="_LFuVo5pVEeyWefGyoEr9Ig" sourceX="-188" sourceY="-109" targetY="41"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_LeWfwJpPEeyWefGyoEr9Ig" sourceAnchor="163.0,0.0" targetAnchor="149.0,0.0" dashed="true" superClass="_p1fksJpMEeyWefGyoEr9Ig" subClass="_LeXt4JpPEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_LdvbwJpPEeyWefGyoEr9Ig"/>
+    <bendpoints xmi:id="_LFuVoJpVEeyWefGyoEr9Ig" sourceY="-30" targetX="-188" targetY="120"/>
+    <bendpoints xmi:id="_LFuVoZpVEeyWefGyoEr9Ig" sourceX="188" sourceY="-109" targetY="41"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vY--QJpTEeyWefGyoEr9Ig" sourceAnchor="251.0,231.0" targetAnchor="0.0,30.0" target="_qCILIJpPEeyWefGyoEr9Ig" source="_vZIvQJpTEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXlQEJpTEeyWefGyoEr9Ig"/>
+    <bendpoints xmi:id="_LFu8sJpVEeyWefGyoEr9Ig" sourceX="-1" sourceY="354" targetX="-199"/>
+    <stereotypes xmi:id="_vZBag5pTEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXnFQJpTEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vZBagJpTEeyWefGyoEr9Ig" text="">
+      <visualProperties xmi:id="_vbgGwppTEeyWefGyoEr9Ig" position="41.0,-23.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vZBagZpTEeyWefGyoEr9Ig" aggregationKind="NONE" name="">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXlQEZpTEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_vbgGwZpTEeyWefGyoEr9Ig" position="-18.0,43.0"/>
+      <visibility xmi:id="_vZHhIZpTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZHhIJpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vZBagppTEeyWefGyoEr9Ig" aggregationKind="NONE" name="f" navigable="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXd7UJpTEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_vbgt0JpTEeyWefGyoEr9Ig" position="-40.0,-57.0"/>
+      <visibility xmi:id="_vZHhI5pTEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_vZHhIppTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_vY_lUJpTEeyWefGyoEr9Ig" sourceAnchor="487.0,0.0" targetAnchor="75.0,144.0" target="_hPTc6ZpKEeyWefGyoEr9Ig" source="_vZIvQJpTEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXnFQZpTEeyWefGyoEr9Ig"/>
+    <stereotypes xmi:id="_vZBah5pTEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXnsUJpTEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <nameVisual xmi:id="_vZBahJpTEeyWefGyoEr9Ig" text="">
+      <visualProperties xmi:id="_vbhU4JpTEeyWefGyoEr9Ig" position="-48.0,-14.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_vZBahZpTEeyWefGyoEr9Ig" aggregationKind="NONE" name="">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXnFQppTEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_vbgt0ZpTEeyWefGyoEr9Ig" position="17.0,-39.0"/>
+      <visibility xmi:id="_vZHhJppTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZHhJZpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_vZBahppTEeyWefGyoEr9Ig" aggregationKind="NONE" name="b" navigable="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXfJcJpTEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_vbhU4ZpTEeyWefGyoEr9Ig" position="46.0,3.0"/>
+      <visibility xmi:id="_vZIIMZpTEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_vZIIMJpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_vZAzcJpTEeyWefGyoEr9Ig" sourceAnchor="251.0,231.0" targetAnchor="172.0,0.0" dashed="true" superClass="_f3aOIJpQEeyWefGyoEr9Ig" subClass="_vZIvQJpTEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXa4AJpTEeyWefGyoEr9Ig"/>
+    <bendpoints xmi:id="_LFu8sZpVEeyWefGyoEr9Ig" sourceY="30" targetX="-371" targetY="-44"/>
+    <bendpoints xmi:id="_LFu8sppVEeyWefGyoEr9Ig" sourceX="371" sourceY="30" targetY="-44"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_E7rqsJpUEeyWefGyoEr9Ig" sourceAnchor="281.0,231.0" targetAnchor="358.0,31.0" target="_qCILIJpPEeyWefGyoEr9Ig" source="_E7xKQJpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6gmAJpUEeyWefGyoEr9Ig"/>
+    <bendpoints xmi:id="_LFu8s5pVEeyWefGyoEr9Ig" sourceY="355" targetX="151"/>
+    <stereotypes xmi:id="_E7uG85pUEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6hNEJpUEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <nameVisual xmi:id="_E7uG8JpUEeyWefGyoEr9Ig" text="">
+      <visualProperties xmi:id="_FBleYJpUEeyWefGyoEr9Ig" position="-81.5,-22.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_E7uG8ZpUEeyWefGyoEr9Ig" aggregationKind="NONE" name="">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6gmAZpUEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_FBkQQJpUEeyWefGyoEr9Ig" position="2.5,43.64285714285711"/>
+      <visibility xmi:id="_E7v8IZpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7v8IJpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_E7uG8ppUEeyWefGyoEr9Ig" aggregationKind="NONE" name="f" navigable="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6afYJpUEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_FBmFcJpUEeyWefGyoEr9Ig" position="17.0625,2.5"/>
+      <visibility xmi:id="_E7v8I5pUEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_E7v8IppUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_E7s40JpUEeyWefGyoEr9Ig" sourceAnchor="15.0,0.0" targetAnchor="281.0,143.0" target="_hPTc6ZpKEeyWefGyoEr9Ig" source="_E7xKQJpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6hNEZpUEeyWefGyoEr9Ig"/>
+    <stereotypes xmi:id="_E7uG95pUEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6h0IJpUEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <nameVisual xmi:id="_E7uG9JpUEeyWefGyoEr9Ig" text="">
+      <visualProperties xmi:id="_FBmsgZpUEeyWefGyoEr9Ig" position="2.0,-8.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_E7uG9ZpUEeyWefGyoEr9Ig" aggregationKind="NONE" name="">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6hNEppUEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_FBmsgJpUEeyWefGyoEr9Ig" position="-38.0,-38.5"/>
+      <visibility xmi:id="_E7v8JppUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7v8JZpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_E7uG9ppUEeyWefGyoEr9Ig" aggregationKind="NONE" name="b" navigable="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6bGcZpUEeyWefGyoEr9Ig"/>
+      <visualProperties xmi:id="_FBnTkJpUEeyWefGyoEr9Ig" position="-66.0,-6.5"/>
+      <visibility xmi:id="_E7v8KJpUEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_E7v8J5pUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_E7tf4JpUEeyWefGyoEr9Ig" sourceAnchor="251.0,231.0" targetAnchor="172.0,0.0" dashed="true" superClass="_f3aOIJpQEeyWefGyoEr9Ig" subClass="_E7xKQJpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6ZRQJpUEeyWefGyoEr9Ig"/>
+    <bendpoints xmi:id="_LFvjwJpVEeyWefGyoEr9Ig" sourceY="30" targetX="307" targetY="-44"/>
+    <bendpoints xmi:id="_LFvjwZpVEeyWefGyoEr9Ig" sourceX="-307" sourceY="30" targetY="-44"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_WckukJpUEeyWefGyoEr9Ig" source="_WckumZpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbdUQJpUEeyWefGyoEr9Ig"/>
+    <stereotypes xmi:id="_WckukZpUEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Wbd7UJpUEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <nameVisual xmi:id="_WckukppUEeyWefGyoEr9Ig" text=""/>
+    <sourceRole xmi:id="_Wckuk5pUEeyWefGyoEr9Ig" aggregationKind="NONE" name="">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbdUQZpUEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_WckulJpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_WckulZpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_WckulppUEeyWefGyoEr9Ig" aggregationKind="NONE" name="input" navigable="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbbfEJpUEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_Wckul5pUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_WckumJpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_E7pLQJpQEeyWefGyoEr9Ig" name="IOException">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P62vAZpJEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_E7pLQZpQEeyWefGyoEr9Ig" position="176.0,306.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <stereotypes xmi:id="_E7pLQppQEeyWefGyoEr9Ig" name="Reference">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P639IJpJEeyWefGyoEr9Ig"/>
+    </stereotypes>
+    <visibility xmi:id="_E7pLQ5pQEeyWefGyoEr9Ig" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_WckumZpUEeyWefGyoEr9Ig" name="Principal" associationsOut="_WckukJpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbRHAJpUEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_WckumppUEeyWefGyoEr9Ig" position="63.0,28.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_Wckum5pUEeyWefGyoEr9Ig" label="+"/>
+    <attributes xmi:id="_WckunJpUEeyWefGyoEr9Ig" defaultValue="new Scanner(System.in)" name="input" staticAttribute="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbbfEJpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_WckunZpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbcGIJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_WckunppUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_Wckun5pUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_WckuoJpUEeyWefGyoEr9Ig" name="Scanner">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbaQ8JpUEeyWefGyoEr9Ig"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_WckuoZpUEeyWefGyoEr9Ig" defaultValue="0" name="score" staticAttribute="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbcGIZpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_WclVoJpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbcGI5pUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_WclVoZpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_WclVoppUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_WclVo5pUEeyWefGyoEr9Ig" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_WclVpJpUEeyWefGyoEr9Ig" name="main" staticOperation="true">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbRuEJpUEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_WclVpZpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_WclVpppUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <parameters xmi:id="_WclVp5pUEeyWefGyoEr9Ig" name="args">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_WbRuEZpUEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_WclVqJpUEeyWefGyoEr9Ig" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_WclVqZpUEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_E7n9IJpQEeyWefGyoEr9Ig" name="FabricaMecanicaDoJogo">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6-c4JpQEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_E7n9IZpQEeyWefGyoEr9Ig" position="64.0,172.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_E7n9IppQEeyWefGyoEr9Ig" label="+"/>
+    <operations xmi:id="_E7n9I5pQEeyWefGyoEr9Ig" name="getMecanicaEasy">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6_D8JpQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_E7n9JJpQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7n9JZpQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7n9JppQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E7G_wJpQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f2WeMJpQEeyWefGyoEr9Ig" name="MecanicaDoJogo">
+          <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f1_R0JpQEeyWefGyoEr9Ig"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_E7n9KJpQEeyWefGyoEr9Ig" name="getMecanicaHard">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E7ASEJpQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_E7n9KZpQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7n9KppQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7n9K5pQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E7G_wZpQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f2XFQJpQEeyWefGyoEr9Ig" name="MecanicaDoJogo">
+          <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f1_R0JpQEeyWefGyoEr9Ig"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_LeXt4JpPEeyWefGyoEr9Ig" name="EmbaralhadorUm" generalizations="_LeWfwJpPEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Ldnf8JpPEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_LeXt4ZpPEeyWefGyoEr9Ig" position="447.0,172.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_LeXt4ppPEeyWefGyoEr9Ig" label="+"/>
+    <operations xmi:id="_LeXt45pPEeyWefGyoEr9Ig" name="embaralhar">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_LdouEJpPEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_LeXt5JpPEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_LdpVIppPEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_LeXt5ZpPEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Ldp8MJpPEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_LeXt5ppPEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_LeXt55pPEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_LeXt6JpPEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_LdpVIZpPEeyWefGyoEr9Ig"/>
+        <type xmi:id="_LeXt6ZpPEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_LeXt6ppPEeyWefGyoEr9Ig" name="palavra">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_LdpVIJpPEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_LeXt65pPEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_LeXt7JpPEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_LeXt7ZpPEeyWefGyoEr9Ig" name="toString">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Ldp8MppPEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_LeXt7ppPEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Ldp8NJpPEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_LeXt75pPEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Ldp8NZpPEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_LeXt8JpPEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_LeXt8ZpPEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_LeXt8ppPEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_Ldp8M5pPEeyWefGyoEr9Ig"/>
+        <type xmi:id="_LeXt85pPEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_30NQYJpOEeyWefGyoEr9Ig" name="EmbaralhadorDois" generalizations="_30JmAJpOEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zOY8JpOEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_30NQYZpOEeyWefGyoEr9Ig" position="822.0,172.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_30NQYppOEeyWefGyoEr9Ig" label="+"/>
+    <operations xmi:id="_30NQY5pOEeyWefGyoEr9Ig" name="embaralhar">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zRcQJpOEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_30NQZJpOEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zTRcJpOEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_30NQZZpOEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zTRcZpOEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_30NQZppOEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_30NQZ5pOEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_30NQaJpOEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zSDUJpOEeyWefGyoEr9Ig"/>
+        <type xmi:id="_30NQaZpOEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_30NQappOEeyWefGyoEr9Ig" name="palavra">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zRcQZpOEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_30NQa5pOEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_30NQbJpOEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_30NQbZpOEeyWefGyoEr9Ig" name="toString">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zT4gZpOEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_30NQbppOEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zUfkJpOEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_30NQb5pOEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zUfkZpOEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_30NQcJpOEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_30NQcZpOEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_30NQcppOEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_3zT4gppOEeyWefGyoEr9Ig"/>
+        <type xmi:id="_30NQc5pOEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_p1fksJpMEeyWefGyoEr9Ig" name="Embaralhador" subclassedBy="_30JmAJpOEeyWefGyoEr9Ig _LeWfwJpPEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_p01dYJpMEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_p1fksZpMEeyWefGyoEr9Ig" position="649.0,22.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_p1fksppMEeyWefGyoEr9Ig" label="+"/>
+    <operations xmi:id="_p1fks5pMEeyWefGyoEr9Ig" name="embaralhar">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_p03SkJpMEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_p1fktJpMEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_p1fktZpMEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_p1fktppMEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_p035oJpMEeyWefGyoEr9Ig"/>
+        <type xmi:id="_p1fkt5pMEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_p1fkuJpMEeyWefGyoEr9Ig" name="palavra">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_p03SkZpMEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_p1fkuZpMEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_p1fkuppMEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hPTc6ZpKEeyWefGyoEr9Ig" name="BancoDePalavras" associationsIn="_vY_lUJpTEeyWefGyoEr9Ig _E7s40JpUEeyWefGyoEr9Ig" associationsOut="_hPTc4JpKEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P2snwJpJEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_hPUD8JpKEeyWefGyoEr9Ig" italic="false" lineStyle="lineSolid" position="447.0,306.0" size="327.0,143.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_hPUD8ZpKEeyWefGyoEr9Ig" label="+"/>
+    <attributes xmi:id="_hPUD8ppKEeyWefGyoEr9Ig" defaultValue="new ArrayList&lt;String>()" name="palavras">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7AgAJpJEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_hPUD85pKEeyWefGyoEr9Ig" name="Generics">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7CVMJpJEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hPUD9JpKEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P7DjUJpJEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_hPUD9ZpKEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_hPUD9ppKEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_hPUD95pKEeyWefGyoEr9Ig" name="ArrayList">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P639IZpJEeyWefGyoEr9Ig"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hPUD-JpKEeyWefGyoEr9Ig" name="leitor">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P26qMJpJEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_hPUD-ZpKEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_hPUD-ppKEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_hPUD-5pKEeyWefGyoEr9Ig" name="getListaPalavras">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P29GcJpJEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_hPUD_JpKEeyWefGyoEr9Ig" name="Generics">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P2_isJpJEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_hPUD_ZpKEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_hPUD_ppKEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hPUD_5pKEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P6_48JpJEeyWefGyoEr9Ig"/>
+        <type xmi:id="_hPUEAJpKEeyWefGyoEr9Ig" name="ArrayList">
+          <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P639IZpJEeyWefGyoEr9Ig"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hPUEAZpKEeyWefGyoEr9Ig" name="getPalavraAleatoria">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P3CmAJpJEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_hPUEAppKEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_hPUEA5pKEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hPUEBJpKEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P3CmAZpJEeyWefGyoEr9Ig"/>
+        <type xmi:id="_hPUEBZpKEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_vZIvQJpTEeyWefGyoEr9Ig" name="MecanicaEasy" associationsOut="_vY--QJpTEeyWefGyoEr9Ig _vY_lUJpTEeyWefGyoEr9Ig" generalizations="_vZAzcJpTEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXH9EJpTEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_vZIvQZpTEeyWefGyoEr9Ig" position="35.0,491.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_vZIvQppTEeyWefGyoEr9Ig" label="+"/>
+    <attributes xmi:id="_vZIvQ5pTEeyWefGyoEr9Ig" defaultValue="new FabricaEmbaralhadores()" name="f">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXd7UJpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZIvRJpTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXeiYJpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZIvRZpTEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_vZIvRppTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_vZIvR5pTEeyWefGyoEr9Ig" name="FabricaEmbaralhadores">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_qBn00JpPEeyWefGyoEr9Ig"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vZIvSJpTEeyWefGyoEr9Ig" defaultValue="new BancoDePalavras()" name="b">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXfJcJpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZIvSZpTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXfwgJpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZIvSppTEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_vZIvS5pTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_vZIvTJpTEeyWefGyoEr9Ig" name="BancoDePalavras">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P2snwJpJEeyWefGyoEr9Ig"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vZIvTZpTEeyWefGyoEr9Ig" name="acertou">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXfwgZpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZIvTppTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXgXkJpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZIvT5pTEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_vZIvUJpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_vZIvUZpTEeyWefGyoEr9Ig" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vZIvUppTEeyWefGyoEr9Ig" defaultValue="b.getPalavraAleatoria()" name="palavraEscolhidaAleatoria">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXgXkZpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZIvU5pTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXgXk5pTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZIvVJpTEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_vZIvVZpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_vZIvVppTEeyWefGyoEr9Ig" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_vZIvV5pTEeyWefGyoEr9Ig" defaultValue="f.getEmbaralhadorAleatorio().embaralhar(palavraEscolhidaAleatoria)" name="PalavraEscolhidaEmbaralhada">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXg-oJpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZIvWJpTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXg-oZpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZIvWZpTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZIvWppTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_vZIvW5pTEeyWefGyoEr9Ig" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_vZIvXJpTEeyWefGyoEr9Ig" name="MecanicaEasy">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXKZUJpTEeyWefGyoEr9Ig"/>
+      <keywords xmi:id="_vZJWUJpTEeyWefGyoEr9Ig" keyword="create"/>
+      <stereotypes xmi:id="_vZJWUZpTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXMOgJpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZJWUppTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZJWU5pTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vZJWVJpTEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXM1kJpTEeyWefGyoEr9Ig"/>
+        <type xmi:id="_vZJWVZpTEeyWefGyoEr9Ig" name="MecanicaEasy">
+          <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXH9EJpTEeyWefGyoEr9Ig"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vZJWVppTEeyWefGyoEr9Ig" name="testaPalavra">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXODsJpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZJWV5pTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXOqwZpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vZJWWJpTEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXPR0JpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZJWWZpTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZJWWppTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vZJWW5pTEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXOqwJpTEeyWefGyoEr9Ig"/>
+        <type xmi:id="_vZJWXJpTEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_vZJWXZpTEeyWefGyoEr9Ig" name="tentativa">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXODsZpTEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_vZJWXppTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_vZJWX5pTEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vZJWYJpTEeyWefGyoEr9Ig" name="jogoTerminou">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXP44JpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZJWYZpTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXP445pTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vZJWYppTEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXQf8JpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZJWY5pTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZJWZJpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vZJWZZpTEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXP44ppTEeyWefGyoEr9Ig"/>
+        <type xmi:id="_vZJWZppTEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_vZJWZ5pTEeyWefGyoEr9Ig" name="tentativas">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXP44ZpTEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_vZJWaJpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_vZJWaZpTEeyWefGyoEr9Ig" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_vZJWappTEeyWefGyoEr9Ig" name="temDica">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXQf8ppTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZJWa5pTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRHAZpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vZJWbJpTEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRHAppTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZJWbZpTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZJWbppTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vZJWb5pTEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRHAJpTEeyWefGyoEr9Ig"/>
+        <type xmi:id="_vZJWcJpTEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_vZJWcZpTEeyWefGyoEr9Ig" name="getPalavraEscolhida">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRuEZpTEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_vZJWcppTEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRuE5pTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_vZJWc5pTEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRuFJpTEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_vZJWdJpTEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_vZJWdZpTEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_vZJWdppTEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_vXRuEppTEeyWefGyoEr9Ig"/>
+        <type xmi:id="_vZJWd5pTEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_f3aOIJpQEeyWefGyoEr9Ig" name="MecanicaDoJogo" subclassedBy="_vZAzcJpTEeyWefGyoEr9Ig _E7tf4JpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f1_R0JpQEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_f3aOIZpQEeyWefGyoEr9Ig" position="485.0,796.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_f3aOIppQEeyWefGyoEr9Ig" label="+"/>
+    <operations xmi:id="_f3aOI5pQEeyWefGyoEr9Ig" name="testaPalavra">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2Q-oJpQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_f3aOJJpQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_f3aOJZpQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_f3aOJppQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2Q-oppQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f3aOJ5pQEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_f3aOKJpQEeyWefGyoEr9Ig" name="tentativa">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2Q-oZpQEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_f3aOKZpQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_f3aOKppQEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_f3aOK5pQEeyWefGyoEr9Ig" name="jogoTerminou">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2RlsJpQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_f3aOLJpQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_f3aOLZpQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_f3aOLppQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2RlsppQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f3aOL5pQEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_f3aOMJpQEeyWefGyoEr9Ig" name="tentativas">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2RlsZpQEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_f3aOMZpQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_f3aOMppQEeyWefGyoEr9Ig" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_f3aOM5pQEeyWefGyoEr9Ig" name="temDica">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2Rls5pQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_f3aONJpQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_f3aONZpQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_f3aONppQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2RltJpQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f3aON5pQEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_f3aOOJpQEeyWefGyoEr9Ig" name="getPalavraEscolhida">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2RltZpQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_f3aOOZpQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_f3aOOppQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_f3aOO5pQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2SMwJpQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f3aOPJpQEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_f3aOPZpQEeyWefGyoEr9Ig" name="getPalavraEscolhidaEmbaralhada">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2SMwZpQEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_f3aOPppQEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_f3aOP5pQEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_f3aOQJpQEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_f2SMwppQEeyWefGyoEr9Ig"/>
+        <type xmi:id="_f3aOQZpQEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_qCILIJpPEeyWefGyoEr9Ig" name="FabricaEmbaralhadores" associationsIn="_vY--QJpTEeyWefGyoEr9Ig _E7rqsJpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_qBn00JpPEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_qCILIZpPEeyWefGyoEr9Ig" position="485.0,1046.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_qCILIppPEeyWefGyoEr9Ig" label="+"/>
+    <operations xmi:id="_qCILI5pPEeyWefGyoEr9Ig" name="getEmbaralhadorAleatorio">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_qBpC8JpPEeyWefGyoEr9Ig"/>
+      <visibility xmi:id="_qCILJJpPEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_qCILJZpPEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_qCILJppPEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_qBt7cJpPEeyWefGyoEr9Ig"/>
+        <type xmi:id="_qCILJ5pPEeyWefGyoEr9Ig" name="Embaralhador">
+          <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_p01dYJpMEeyWefGyoEr9Ig"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_E7xKQJpUEeyWefGyoEr9Ig" name="MecanicaHard" associationsOut="_E7rqsJpUEeyWefGyoEr9Ig _E7s40JpUEeyWefGyoEr9Ig" generalizations="_E7tf4JpUEeyWefGyoEr9Ig">
+    <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6ILgJpUEeyWefGyoEr9Ig"/>
+    <visualProperties xmi:id="_E7xKQZpUEeyWefGyoEr9Ig" position="713.0,491.0" size="-1.0,-1.0" color="255,255,255" backgroundColor="128,128,192" lineColor="64,0,128" gradientToColor="255,128,255"/>
+    <visibility xmi:id="_E7xKQppUEeyWefGyoEr9Ig" label="+"/>
+    <attributes xmi:id="_E7xKQ5pUEeyWefGyoEr9Ig" defaultValue="new FabricaEmbaralhadores()" name="f">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6afYJpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKRJpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6bGcJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKRZpUEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_E7xKRppUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_E7xKR5pUEeyWefGyoEr9Ig" name="FabricaEmbaralhadores">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_qBn00JpPEeyWefGyoEr9Ig"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_E7xKSJpUEeyWefGyoEr9Ig" defaultValue="new BancoDePalavras()" name="b">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6bGcZpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKSZpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6btgZpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKSppUEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_E7xKS5pUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_E7xKTJpUEeyWefGyoEr9Ig" name="BancoDePalavras">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_P2snwJpJEeyWefGyoEr9Ig"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_E7xKTZpUEeyWefGyoEr9Ig" name="acertou">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6btgppUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKTppUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6cUkJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKT5pUEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_E7xKUJpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_E7xKUZpUEeyWefGyoEr9Ig" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_E7xKUppUEeyWefGyoEr9Ig" defaultValue="b.getPalavraAleatoria()" name="palavraEscolhidaAleatoria">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6cUkZpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKU5pUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6cUk5pUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKVJpUEeyWefGyoEr9Ig" label="-"/>
+      <cardinality xmi:id="_E7xKVZpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_E7xKVppUEeyWefGyoEr9Ig" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_E7xKV5pUEeyWefGyoEr9Ig" defaultValue="f.getEmbaralhadorAleatorio().embaralhar(palavraEscolhidaAleatoria)" name="PalavraEscolhidaEmbaralhada">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6c7oJpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKWJpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6c7oZpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKWZpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7xKWppUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <type xmi:id="_E7xKW5pUEeyWefGyoEr9Ig" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_E7xKXJpUEeyWefGyoEr9Ig" name="MecanicaHard">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6LO0JpUEeyWefGyoEr9Ig"/>
+      <keywords xmi:id="_E7xKXZpUEeyWefGyoEr9Ig" keyword="create"/>
+      <stereotypes xmi:id="_E7xKXppUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6L14ppUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKX5pUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7xKYJpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7xKYZpUEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6Mc8JpUEeyWefGyoEr9Ig"/>
+        <type xmi:id="_E7xKYppUEeyWefGyoEr9Ig" name="MecanicaHard">
+          <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6ILgJpUEeyWefGyoEr9Ig"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_E7xKY5pUEeyWefGyoEr9Ig" name="testaPalavra">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6NEAJpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKZJpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6NrEZpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_E7xKZZpUEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6OSIJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKZppUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7xKZ5pUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7xKaJpUEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6NrEJpUEeyWefGyoEr9Ig"/>
+        <type xmi:id="_E7xKaZpUEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_E7xKappUEeyWefGyoEr9Ig" name="tentativa">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6NEAZpUEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_E7xKa5pUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_E7xKbJpUEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_E7xKbZpUEeyWefGyoEr9Ig" name="jogoTerminou">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6O5MJpUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKbppUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6PgQJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_E7xKb5pUEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6PgQZpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKcJpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7xKcZpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7xKcppUEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6O5MppUEeyWefGyoEr9Ig"/>
+        <type xmi:id="_E7xKc5pUEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_E7xKdJpUEeyWefGyoEr9Ig" name="tentativas">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6O5MZpUEeyWefGyoEr9Ig"/>
+        <cardinality xmi:id="_E7xKdZpUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+        <type xmi:id="_E7xKdppUEeyWefGyoEr9Ig" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_E7xKd5pUEeyWefGyoEr9Ig" name="temDica">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6PgQ5pUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKeJpUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6QHUZpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_E7xKeZpUEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6QuYJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKeppUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7xKe5pUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7xKfJpUEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6QHUJpUEeyWefGyoEr9Ig"/>
+        <type xmi:id="_E7xKfZpUEeyWefGyoEr9Ig" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_E7xKfppUEeyWefGyoEr9Ig" name="getPalavraEscolhida">
+      <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6QuYppUEeyWefGyoEr9Ig"/>
+      <stereotypes xmi:id="_E7xKf5pUEeyWefGyoEr9Ig" name="LegacyStyledElement">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6RVcJpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <stereotypes xmi:id="_E7xKgJpUEeyWefGyoEr9Ig" name="Annotations">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6RVcZpUEeyWefGyoEr9Ig"/>
+      </stereotypes>
+      <visibility xmi:id="_E7xKgZpUEeyWefGyoEr9Ig" label="+"/>
+      <cardinality xmi:id="_E7xKgppUEeyWefGyoEr9Ig" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_E7xKg5pUEeyWefGyoEr9Ig">
+        <modelElement href="Vinicius%20Oruam%20-%20week%206.uml#_E6QuY5pUEeyWefGyoEr9Ig"/>
+        <type xmi:id="_E7xKhJpUEeyWefGyoEr9Ig" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
